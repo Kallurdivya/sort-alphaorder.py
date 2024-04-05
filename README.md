@@ -1,2 +1,2 @@
 # sort-alphaorder.py
-sorts the sentence in alphabetical order using python 
+sorting the sentences by alphabetical order using python 
